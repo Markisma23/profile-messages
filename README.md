@@ -1,2 +1,2 @@
-# profile-messages-in-php
+# profile-messages
 profile/messages in php
